@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayMinIndex", "ArrayMinIndex.vcxproj", "{D80C833D-A03B-49AC-B108-ECE9646A9990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80C833D-A03B-49AC-B108-ECE9646A9990}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D80C833D-A03B-49AC-B108-ECE9646A9990}.Debug|Win32.Build.0 = Debug|Win32
+		{D80C833D-A03B-49AC-B108-ECE9646A9990}.Release|Win32.ActiveCfg = Release|Win32
+		{D80C833D-A03B-49AC-B108-ECE9646A9990}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sequential", "sequential\sequential.vcxproj", "{A2FFD2BB-A158-4CFB-8A43-F2C0337B0515}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paralell", "paralell\paralell.vcxproj", "{A41E4C07-3FF0-491A-A8EF-83B85335CF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FFD2BB-A158-4CFB-8A43-F2C0337B0515}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2FFD2BB-A158-4CFB-8A43-F2C0337B0515}.Debug|Win32.Build.0 = Debug|Win32
+		{A2FFD2BB-A158-4CFB-8A43-F2C0337B0515}.Release|Win32.ActiveCfg = Release|Win32
+		{A2FFD2BB-A158-4CFB-8A43-F2C0337B0515}.Release|Win32.Build.0 = Release|Win32
+		{A41E4C07-3FF0-491A-A8EF-83B85335CF61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A41E4C07-3FF0-491A-A8EF-83B85335CF61}.Debug|Win32.Build.0 = Debug|Win32
+		{A41E4C07-3FF0-491A-A8EF-83B85335CF61}.Release|Win32.ActiveCfg = Release|Win32
+		{A41E4C07-3FF0-491A-A8EF-83B85335CF61}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
