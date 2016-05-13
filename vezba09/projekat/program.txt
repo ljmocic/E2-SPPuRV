@@ -1,0 +1,6 @@
+begin
+if s = 10 then
+    print a = 20
+else
+    print b = 30
+end
